@@ -1,0 +1,47 @@
+{
+    "secao": "821",
+    "zona": "353",
+    "municipio": "71072",
+    "local": "1775",
+    "numeroInternoUrna": "2061691",
+    "numeroSerieFC": "3441FCA3",
+    "dataHoraCarga": "20240927T162800",
+    "codigoCarga": "695064661233764326696051",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170544",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "270",
+    "qtdEleitoresAptosPresidente": "270",
+    "qtdComparecimento": "193",
+    "qtdComparecimentoPresidente": "193",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "47",
+            "assinatura": "7528E74955EDF65DE547FDDFF908C647839756DF184775784A37BB1FD6A0005D4D70056163CD7940B5D8943BF1DE412F899A0DCEEDDBFC00706133D8F65DF007"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "50",
+            "assinatura": "DD01B414477D0855F30C2A7A3B08CD28A020CB7AA779922652CD35D9712C6CD9B9B509EC74CC7F667E259FB262A139D639910C6920F53C2CD6CDF2C764AD0582"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "14",
+            "assinatura": "24FA0DA953F1A6B3EAACB5A0F30940DBC96F9016D6073978739331390FA4C7D9EB8F48A0386C8A5248CB8838C9B3252D71B379E155D30902AFD7E7C378BBD289"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "3",
+            "assinatura": "07AF72B3D6C4EA380791E43B2AC1040E632EEC1B72281DFFC43CDB6B0DD7D61C40C4A8F162480C7E4F894E5C60040CFF70ACCC7B9F515A011F5AB9B03DB0C31A"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "53",
+            "assinatura": "4DF4C62C5A703DF142643937B846EEEB9394FED9E1B14F84AD43E59EB23FBB17293BA2C09AA7EC2BEE8E9CC2C902F917C60C35C8AD42EC79C43BF98371CDEDCE"
+        },
+        "nulo": {
+            "quantidadeVotos": "13"
+        }
+    }
+}

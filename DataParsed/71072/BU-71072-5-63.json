@@ -1,0 +1,48 @@
+{
+    "secao": "63",
+    "zona": "5",
+    "municipio": "71072",
+    "local": "1066",
+    "numeroInternoUrna": "1832227",
+    "numeroSerieFC": "B678BC3D",
+    "dataHoraCarga": "20240926T101100",
+    "codigoCarga": "462701216191202761819138",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170140",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "390",
+    "qtdEleitoresAptosPresidente": "390",
+    "qtdComparecimento": "254",
+    "qtdComparecimentoPresidente": "254",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "84",
+            "assinatura": "DAE76BBFFDA8CCD45D841A7AED0C450508CD2CF6C08BF4E377292EF703B0EC26DBC3CD5FE758B5708DEA5D1DF9F4528876174045D4F59627328296C07A3C56E6"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "61",
+            "assinatura": "7079A058A3CCA110FBAF464FCE9D5C3F9CEEB7359F61B67CE5359D45BBC1902D3C9CF3D5B6F087403B3FF14BE05445EBE3DFDFEFBDD3B07F964C2487D9D35C0F"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "9",
+            "assinatura": "93EC591A87D6B4AD1F5CB7C87F20F1D79E565DA05279DB011F0816A8C626BF307324E565BE9A16325BE31D4EA3FF2494B1291412ED65D1366744F61F93F38EF1"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "39",
+            "assinatura": "28939A60C2A000E2FCFBFEEE7389ABC292EA6D4A730A7CB5D3E513B3EEE72A7B786E2B888B3E55E13B721E7E574353FCCAF95E4B7F0D418DD172A596B38B0AF9"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "48",
+            "assinatura": "97871241EE65300F558E92502F49B02981E24D8892C4C1E15574BA59E8194885421A4654D9B68774E52D08AD5467431B5B342E21DED5586EA242B1769C3E8CBA"
+        },
+        "nulo": {
+            "quantidadeVotos": "9",
+            "assinatura": "441A1FA17FAC8D9D083F95A17596D30D70211A1AE7FB2BC0E0709545AB235D14C5E6857B4D5B90648894D6167E9EF07F8CB659FC1C4FE09BB07B608F08F93ACE"
+        }
+    }
+}

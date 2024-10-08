@@ -1,0 +1,53 @@
+{
+    "secao": "511",
+    "zona": "352",
+    "municipio": "71072",
+    "local": "1597",
+    "numeroInternoUrna": "2065894",
+    "numeroSerieFC": "6CBCFAEB",
+    "dataHoraCarga": "20240928T145400",
+    "codigoCarga": "897073520930826615768026",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170216",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "295",
+    "qtdEleitoresAptosPresidente": "295",
+    "qtdComparecimento": "239",
+    "qtdComparecimentoPresidente": "239",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "48",
+            "assinatura": "4F43DC24EA3043452252887CCA6B75130DDE2DB921FD5D020BE3B2E0242A25A6373989DE22C14B7FAE9032DF9DE68F74BACCC73ACC3F427802C59AED53C56B12"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "76",
+            "assinatura": "32EE9EC322449CBFDABD18FFCFCFF0249D84E5A4B4EE1279A030D4233D2D3583A99533162A9E068DDC993B56D8E1C58102FEAB47AA45D871B1C82CD1F3B9F592"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "1",
+            "assinatura": "806F76CEC5B7D401028E7ADA4760060DF313E523BA0748E5DA587625EF642ABA3170217D69F35CB069DD497CABEAFD852AF17CB5FFD551CCA49B81050187D447"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "9",
+            "assinatura": "786C98E954FEAFA0F5135837917385BAE5C73877289ABC6B092920CA22D0644BAE3AC36A803E3701EBD8DDA5FCB752276C1157B6621D5CAF91BD20BE01481105"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "4",
+            "assinatura": "8A445BA85978A4C91C6213435F8E511CC3E4D748D2B996816F6DE3191AD00CE0B535509529549D5414D800FAB7E3DC61B399F0C0E7EBC53AAEE06EC410166A38"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "65",
+            "assinatura": "3E004A2E15F95DAB6602411DC68E0DA786579E0D3386343D6B75667DF02C3EBB9BEDC7B49EF6FB83D2E52E633B37C3F0AA26B3E0257CACC138700293552ED67B"
+        },
+        "nulo": {
+            "quantidadeVotos": "28",
+            "assinatura": "8DE258E114CE47A18210A61DFA229CC12FDAB06BEE91DB24880B8763EB2839913F17C1BCA7026B7C25E8C492E47883314AF8198ED4596B7825B7A811133875BE"
+        }
+    }
+}

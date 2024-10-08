@@ -1,0 +1,53 @@
+{
+    "secao": "89",
+    "zona": "1",
+    "municipio": "71072",
+    "local": "1066",
+    "numeroInternoUrna": "2032595",
+    "numeroSerieFC": "C8342E97",
+    "dataHoraCarga": "20240925T142800",
+    "codigoCarga": "291040847776964014769133",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170108",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "356",
+    "qtdEleitoresAptosPresidente": "356",
+    "qtdComparecimento": "235",
+    "qtdComparecimentoPresidente": "235",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "44",
+            "assinatura": "9E74882E4E24CFAF93CEE219CA3CEFD3E511F586F06034E76080BE86103DCF90B2E637E5D2D67272FA883C5BD3D51B10CD6567BD04283B08F82F078FE3338FD6"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "42",
+            "assinatura": "EDD255D358CCE78A47E27742DA1121BA5EDA2A90FEB704133B155E882B5AD07A28014B86BBA0631146C33095B2409E0D0CA0712C05BCFE91E3E480DB1224976D"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "5",
+            "assinatura": "5303D6DEAD87CDF72BBE5BE438C826C0385EB54D3D2CCF483254195B9F3CB2FCDFDCF3BAB9848BEBE8081E8490300A0F80626242371D6AA366CC57FB55A5E719"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "29",
+            "assinatura": "AFE848B8990277D3E76B53C95D952AA3F6AAA825CF58D2C2F252DBDC20D41C198F541BF9D5D25C8256B35A52B45797F1E64A8240707F468B67DCD987D6B32106"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "1",
+            "assinatura": "88E52E964106DB5F0E6603298487151ADB5AFC08D4F17BE51B85F457E090CBEC524F0F89643FFE8CDB9EF6D55E92FD9F8592622523B3092A33625E18C3308EDD"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "96",
+            "assinatura": "C1A4B9BB5D56A44ED4504553180EEF25C7F90EBBA1B48C903403654B9B8FD04965AFD0281DE9805AC43615BCA11E1B4C34A9A58E20756C6768AA74B3F0724B90"
+        },
+        "nulo": {
+            "quantidadeVotos": "12",
+            "assinatura": "906304555BDCC41796873E40DA47F1059E49B3C46042253134F7510A53168AE98433C39AC85CAFA74404D6A137CF0CFF495C4B80C2494E25CA8EDCC323A81E33"
+        }
+    }
+}

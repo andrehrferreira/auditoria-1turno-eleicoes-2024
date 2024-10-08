@@ -1,0 +1,52 @@
+{
+    "secao": "324",
+    "zona": "381",
+    "municipio": "71072",
+    "local": "1333",
+    "numeroInternoUrna": "2009875",
+    "numeroSerieFC": "265CAC20",
+    "dataHoraCarga": "20240928T175000",
+    "codigoCarga": "907184756729888917750235",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170805",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "385",
+    "qtdEleitoresAptosPresidente": "385",
+    "qtdComparecimento": "305",
+    "qtdComparecimentoPresidente": "305",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "86",
+            "assinatura": "3EFB3C44303ACFE3FB564DEB543256EA12BEE3AC5259EAC7C6BB1976F5A13612C3FDD745D1AE2BA5A5D3E74F6D64DCF240657031791B3475ED219BB6C6109F99"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "52",
+            "assinatura": "B0B9105122103587E0FA30BB68150DF1D1A2718A21B226394AEEADDEAC4622508DA770FE8CBEF80E02700E85A06F39BA87DFA7ECBAD13731E6E702AED4AFD514"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "3",
+            "assinatura": "68ED3A72BF9DD8DAA875B17648BFA0BD7F57BDC93A510B1DA16CC7FD41A2507566FD296DA0E082F91E0405F74551DDCF31EDB86BBD274B6441D083A90D742D29"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "17",
+            "assinatura": "91AFA0FFB97E23DB09B9263CD2DD41F8508A0899AA77FE5FA083B1254D4A709742FDB47D5B875052D58C7D13C4FC3E81DF0FA02BF93980643112EDAC88104A75"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "5"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "107",
+            "assinatura": "F486BECDAA99C34B4408A8389BF6434637C2E2553F5039596D03485DB2499F3DF0A782E7155A11820434AE3D5E712B7FA2C064246450D690C88B16928B1D99B5"
+        },
+        "nulo": {
+            "quantidadeVotos": "22",
+            "assinatura": "02D220417F94C888DBA51246AB01FF13E61ED617129F6ED0A13DC52B83B2D5CF68266F7F23ED8D99AB4652AA0D6D27DCFEB8F17485F7879B74BBE252C474DD74"
+        }
+    }
+}

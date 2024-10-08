@@ -1,0 +1,52 @@
+{
+    "secao": "6",
+    "zona": "1",
+    "municipio": "71072",
+    "local": "1015",
+    "numeroInternoUrna": "2031818",
+    "numeroSerieFC": "26FF0884",
+    "dataHoraCarga": "20240926T110500",
+    "codigoCarga": "937404599219979522131199",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T171513",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "333",
+    "qtdEleitoresAptosPresidente": "333",
+    "qtdComparecimento": "208",
+    "qtdComparecimentoPresidente": "208",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "45",
+            "assinatura": "0DF34D35C34811B61E30492CBA8D5F924D54FBA45A825229222624A1B9D8E4BC1E942901449948AA0E8473503ADF7694DBA46BFA5C761628E82E505FA7367639"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "40"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "7",
+            "assinatura": "D89BF83E45BAE7212F118C77C9AE7F5169D6C6CED8693E394468D7D6E35E9909DC8BC496A6BC825808332A50D3DABEC09FC179239B2C1AA7AFB527F93B594279"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "25",
+            "assinatura": "DB921E24692B7DA302F5FC80A03BB525D2F5A838339437FFD464088248BAA3FA8ECB8ED2C66ED55B94DE8E5F581586991896CA92274F28C18F5A67D98F687968"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "5",
+            "assinatura": "790C15A9D2E7C7A4F62CF67E88A498A01E38E3077E98D93518F0D41C569A546A1BE3402A6B84A4517EBA82D19E9C1489384EBF9A3B00E0DEB4A135EB527892C9"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "76",
+            "assinatura": "1B5CB5222CC91BFA9CD95FAA0A0ABA27FDE5D3D68963B8FC19047EBB20130DC63D271006A44B38D8D611E554987B70B47D2BF6EB0DC6B819EAE15022E308C802"
+        },
+        "nulo": {
+            "quantidadeVotos": "3",
+            "assinatura": "0D0A951AE62DEDDEF404651B28BE699BA1733EC34921268A262CD2FEF1E176DDD899E258185E82A05564AB1D08BE3FD82BB07D080E38F58FCB67398F7AC34AC2"
+        }
+    }
+}

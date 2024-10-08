@@ -1,0 +1,52 @@
+{
+    "secao": "446",
+    "zona": "6",
+    "municipio": "71072",
+    "local": "2097",
+    "numeroInternoUrna": "1837358",
+    "numeroSerieFC": "D58ACA12",
+    "dataHoraCarga": "20240926T150900",
+    "codigoCarga": "806146108941561213046694",
+    "dataHoraAbertura": "20241006T080002",
+    "dataHoraEncerramento": "20241006T170709",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "390",
+    "qtdEleitoresAptosPresidente": "390",
+    "qtdComparecimento": "302",
+    "qtdComparecimentoPresidente": "302",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "72",
+            "assinatura": "BFAC533D6D3C2695E2B0DCF8B4B9CFC14FC5227EA2B4513750B75E5D1E3D38829CC1DD69E3A32ADB50D948613E132A93B9432F4E38556A76777C33274B578B0C"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "58",
+            "assinatura": "D4F75993B93AB95942D9642B46AB4C85631DF823279B3490C8A13B4074D33867DBA5262EC21E85758BFB077E3142F73581781C7DD70FDCA562AF7EAA9BA86ADB"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "8",
+            "assinatura": "8A74298C01F0E5B61C92B15577D92B3DD5AB3D366B96BB7E2C3A1FD1DCD10659EF17C813CFC56E1570AEFEBFD6E81F282070F5D8F026C7A001A10209A28BAE78"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "39",
+            "assinatura": "E1DB20CB7DE41D13D06EDE9640D56012FDBEBBC905B0A48DBB69790A0271D36311C5DA72F9706FC31EB22B9944D1A88492988FFF6FC4857291A3E8540ECA885A"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "2"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "101",
+            "assinatura": "3015580D0BE62BC967068197A155F4481BEF90BC4A48B3C32FC0709323B7D34EA5C20E53BF637106C7C7F5B62CE6D879A144ABAA51CCFF239BFAC18B05361DE0"
+        },
+        "nulo": {
+            "quantidadeVotos": "11",
+            "assinatura": "4E1F2DBDC94B18679C0D97C15AD9B8D63D071F02A73796C010AC2AC17C2B05808974767BB9FC6593B0F7457ECB18688E7E820745E79DF6BC1B785F134F1529CB"
+        }
+    }
+}

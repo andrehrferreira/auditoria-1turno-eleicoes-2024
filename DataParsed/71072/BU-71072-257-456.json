@@ -1,0 +1,53 @@
+{
+    "secao": "456",
+    "zona": "257",
+    "municipio": "71072",
+    "local": "1171",
+    "numeroInternoUrna": "1816899",
+    "numeroSerieFC": "CFBDB25F",
+    "dataHoraCarga": "20241001T102800",
+    "codigoCarga": "684998053458417920328274",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170311",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "380",
+    "qtdEleitoresAptosPresidente": "380",
+    "qtdComparecimento": "299",
+    "qtdComparecimentoPresidente": "299",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "82",
+            "assinatura": "EBA6BE2E7CF69D6C1CC383D27E17CF4306995BE699EDD16300B9E00557EBB7B336D1276592588B7FA290A9109D4BC38B3049D29A6345A6CD51EA2B9E36FC8737"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "95",
+            "assinatura": "86AC537898A13144901CB7784EA71FFB6B45C1E6C0AA574DFC6AC6D280E798309A98BCDAE1C0D46B5AC2DA1E722CE2A745D679BABA16F95C497C972B444FFC5D"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "4",
+            "assinatura": "E4CB5782C1D769E95048490CAAAE20BCD499D1FC5B3E3AFD443AD1FCCB812C32EA682D72E0AF84056A8E3DA152CFA332E591519564509EFFCF35DAA242D8DDD1"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "29",
+            "assinatura": "16A0804945CE2939547C59D12DCF3E2FC8F4AB973A58DF5AA107175A40F49CB200249B7603025447B7324890A66FE40670F1C37EA7CE8756A8F86808DD3E87B0"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "2",
+            "assinatura": "07306B0D380D4DB9325FBD1AC5C4C1952225C453FED8FCED7C9010CA2D90C3151723C0DBD52E92F3C0C28BEC1C100C90E8680A9554B9F34F98D80C940B3A66AA"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "59",
+            "assinatura": "0E2703E68D2382062F222FC06717B0551556B64C2E3E1763583309C92920DE503D8C081FE8F3AD4A7072086A69913FA4DCB5B202C60709972CAB1804363E8939"
+        },
+        "nulo": {
+            "quantidadeVotos": "18",
+            "assinatura": "7740AFA9F4F52D16D130D7C16F62F2A44907501B6E8E0BFB0135B2CA67E2A02E3ADCB10E4FBE593662A9A12B18379F99991FEB1FA4C1FB4F8A941EB8BC7805D3"
+        }
+    }
+}

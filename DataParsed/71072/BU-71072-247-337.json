@@ -1,0 +1,53 @@
+{
+    "secao": "337",
+    "zona": "247",
+    "municipio": "71072",
+    "local": "1333",
+    "numeroInternoUrna": "1782863",
+    "numeroSerieFC": "DAF1F5EE",
+    "dataHoraCarga": "20240928T124000",
+    "codigoCarga": "008123251399341998247316",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170303",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "308",
+    "qtdEleitoresAptosPresidente": "308",
+    "qtdComparecimento": "211",
+    "qtdComparecimentoPresidente": "211",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "70",
+            "assinatura": "E5F9C85CD88F842A21D2D2B985B10BE6382176F4D7A4D56B297278BC340CCFC10496658D9D44DCEC37C5421943F34D70EAFEEC45F67B839A6DBCC9C9E821E77A"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "48",
+            "assinatura": "E933FA24AE265BFCBA8DA1EC45791036C282E8A79B6E32C9AC8785F64781FD126472277A3EDC652ED62B07EA319148F3D916C3D8DC9BC29DA642E38E954CF2AA"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "2",
+            "assinatura": "BBA791E9E55164CCD1E7FAB670F9BA1F4BF18CBC3A2577DB7B07B892DDBF90ABBFD45ABDF257B0E107991C51EFB8DC0E5AA483219F6C4AE394957EC4520BAA33"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "21",
+            "assinatura": "4257E22D6FCE0CD7237B972A4F976174FC7A3960751D65011D1435EA52A81D609A69BB3365F1B200B863FDD3B2A7BC03DCE89BB2A9ABEE7335F4D9AEC82EF3DC"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "3",
+            "assinatura": "8A078F5869BE18C5241F5D86C5666C92444DDF9C950F67FD90D0342D9A9E53D24823E2533E22FC7ED44E1CBCA982261FFF6983E4FEBBC99D59DAA58BD4B8EB7C"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "45",
+            "assinatura": "A8DD7FAA445C0C5FD805A90A27A742919F2010A3DBC0F9F742737E5A7463364A99410B2A1652B9E61C34B1A7FB61ADEF8CC12D0AE9DEFC406822EA45A47CDEEC"
+        },
+        "nulo": {
+            "quantidadeVotos": "11",
+            "assinatura": "1089CBFB54C29AD1237D981220974ED483BD92BF90F89A8A45DCD64CDD521FEDF95C717EE30F0F6A149116D0A08DB86F443C4C2D499AF33689DDC7F78DBB120A"
+        }
+    }
+}

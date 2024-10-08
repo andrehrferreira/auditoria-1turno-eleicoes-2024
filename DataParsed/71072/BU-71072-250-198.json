@@ -1,0 +1,52 @@
+{
+    "secao": "198",
+    "zona": "250",
+    "municipio": "71072",
+    "local": "1252",
+    "numeroInternoUrna": "2339170",
+    "numeroSerieFC": "293E6DEC",
+    "dataHoraCarga": "20240927T131900",
+    "codigoCarga": "684921280553405496581405",
+    "dataHoraAbertura": "20241006T080110",
+    "dataHoraEncerramento": "20241006T170243",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "374",
+    "qtdEleitoresAptosPresidente": "374",
+    "qtdComparecimento": "258",
+    "qtdComparecimentoPresidente": "258",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "81",
+            "assinatura": "4F692CDF8EFBC083C698603FF7ECD7B896C94634555215B41F3A1A8B7CBE2C256CFC1F1981B281DE98033D24A098CC9350FDFCB3F5008EE9BE9F4A4D50A2AC8E"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "61",
+            "assinatura": "4960E2D416C33F62E05DF47963137641C49536AFC415AE08874906824C37BF4B0241E20049E30925DF3F922E0EB9A2071A69C49C38DA0E7CDCE6021A80D5691A"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "10",
+            "assinatura": "1D7B4F23E973055FC984F6E39F785FEE84F3619DDE37381F9DC8680480B3D4FF11EB8604887F2928D9D3D4E39249694403C5F46D3CFEAF318DB252FC42B99DDA"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "33",
+            "assinatura": "9833330026B43284A8BCB436D8D94F527B9D6A8FB8C0E69E72645169D7F6828A05145359196F1F76261A271B2079BB7FBD98AB8145CE10477334E200A524780D"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "2",
+            "assinatura": "92319A624FF32506A79C79268AAA28201F98765560473FC5F0FB84CA79D13E1E06B8FCE17D6586E4268C1EAA1527D298BFF711AFBDFF1A8571B4C842B9B3B987"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "62",
+            "assinatura": "FA4645B90FF027E9A8133648601F417A65F01DB804E4D1597DEC96CB31DB680EB962374F092E31B0EB8220995652B745B9D3A7245FF8399780B59B3B01216E8A"
+        },
+        "nulo": {
+            "quantidadeVotos": "7"
+        }
+    }
+}

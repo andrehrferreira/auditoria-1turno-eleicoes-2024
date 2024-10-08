@@ -1,0 +1,52 @@
+{
+    "secao": "211",
+    "zona": "4",
+    "municipio": "71072",
+    "local": "1201",
+    "numeroInternoUrna": "2250406",
+    "numeroSerieFC": "2F7D8962",
+    "dataHoraCarga": "20240927T112300",
+    "codigoCarga": "371881730605549700249975",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170736",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "349",
+    "qtdEleitoresAptosPresidente": "349",
+    "qtdComparecimento": "253",
+    "qtdComparecimentoPresidente": "253",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "72",
+            "assinatura": "5059ED9DB09DD4F2ABA3EF95AF7A01E5B29CF07319CFE356930C6251CCC72A70387C973111C7A9C59BDF8BAF37055175C6F0BB85D3AF7F6F07DB6DE0E29E0281"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "82",
+            "assinatura": "DFAE57D3E967638EE0B05C70E20158FA54331A811929CB1560A2D6D1346F521BEE863DFB6125F17E8EEBAAE4031A657D148E8E21B92991F10E40A0E7D7F54868"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "4",
+            "assinatura": "AD8B9152579801E35E661550BB3FAE120B0953F47672B788B720284335DFD438661F20202C2E59099F7E4B179BEC14C152B54483574B69FEC0A79444E5C29944"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "13",
+            "assinatura": "827078435C79C5B7B8836D2ECEA73844A5E7954A00D89972B0720562296B419E39D90399DF8F104CC5E9F9D3EE65BE749B2BDA93DCEF5D9A230184A12DBA9B1B"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "2",
+            "assinatura": "9AFCCF418BDD80372600E8E1B520EA4BE2370F26B3ED95AE432DCA7B9EC7C5700AF0BAC7E212693C5272E2731639DDE9F3704DCB578B4BA0ADEDE8ECFAEFFAA4"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "57",
+            "assinatura": "1DD79B69F550BF7457249E2BA66E3B6A0C9D5F1A5D940C3A50DFCAA0F8E9A9CB2112327AA5E4C1E8A0F786A7C841D99DDDAABF7FA6E94543E50F33C5B4F9BA0B"
+        },
+        "nulo": {
+            "quantidadeVotos": "18"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "secao": "452",
+    "zona": "256",
+    "municipio": "71072",
+    "local": "1325",
+    "numeroInternoUrna": "2011622",
+    "numeroSerieFC": "B294377A",
+    "dataHoraCarga": "20240926T155000",
+    "codigoCarga": "654684588554234134315176",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170327",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "393",
+    "qtdEleitoresAptosPresidente": "393",
+    "qtdComparecimento": "285",
+    "qtdComparecimentoPresidente": "285",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "65",
+            "assinatura": "A7A766458B4CB809AD419DFC7355DB0061EA5F21190DB4F31DE617290CF1F41DD0CB6166960150E89C9E717A62CC33146518072A2A9885976AEC6B61A7E7E2E8"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "82",
+            "assinatura": "3F86EF2D1A267526D6A26705A8EF94AA7D3D1C95319EA56FA6039E1BA9D3EA3B503C8702EA282F9D3C1E774815B67F4A240BB52590686A0E213C02FB8CD0BF9A"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "6",
+            "assinatura": "CDDC4FE1B800785FDEE74103CB58235DB30B14189E259AF75B11A8FF56FCF36BAD2AB32B2D4254670E66B91E1AA36E57144FC0E9219869674BF659F1A5710B99"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "26",
+            "assinatura": "3EB048E37595B44A6EA33AFB1AEF89EDD4FA0F859637B3C46A8010E744CC7D0232D1462F85D9C44055B597F34C215A8F0868F23A6244F1781289FE3BC2715CA1"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "4",
+            "assinatura": "868410F3790B3B70BB042FC83511D1E33C37C65D00A7E807E4706F90983699C6C551F0FDFB1AF65F98721C22A8F6147CA737A33AA3F60376FD8F6E3C7DEFCCBA"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "77",
+            "assinatura": "37F49CFC59228A71FC4ADFEA88458FEEC7221DE1BBAF7CD0375125E34CA72AF084FFD78C70A6EAEE38E27E2F6D23EFBC0351A5A8869ABB87DED137AB56A973CA"
+        },
+        "nulo": {
+            "quantidadeVotos": "16",
+            "assinatura": "139C82CEC6C9A324AA3E4FADD0D43D9D75F6BDFB3F37A70CDB6F4E0B69D9ADCEA333D8278B3E4AFBF5E5860FAB0532E3197CA6F27E9CAE458E9DF7684A351790"
+        }
+    }
+}

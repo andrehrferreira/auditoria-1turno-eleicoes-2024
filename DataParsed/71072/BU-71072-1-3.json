@@ -1,0 +1,53 @@
+{
+    "secao": "3",
+    "zona": "1",
+    "municipio": "71072",
+    "local": "1015",
+    "numeroInternoUrna": "2030201",
+    "numeroSerieFC": "26FF0884",
+    "dataHoraCarga": "20240926T105300",
+    "codigoCarga": "775888105103016754672159",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T171353",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "329",
+    "qtdEleitoresAptosPresidente": "329",
+    "qtdComparecimento": "220",
+    "qtdComparecimentoPresidente": "220",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "60",
+            "assinatura": "1E7AC6EAD5421A964FD752CA2A407B803263EBA6D7CB8C4265F8F357E8FBDAFCD1468CC2496894F382DBDFE75F132E598BF5472C829BC5F0A3F2AB81C9AC5F2B"
+        },
+        "16": {
+            "partido": "16",
+            "quantidadeVotos": "1",
+            "assinatura": "A146E1CEBAA67DD03EBA19E9BEEA6DFBA8272E46A7D58C9F9A636269A6D112DB3208FAF3FAD472706CE570BD119D8CEF10CB706A8FEAB4D2B4FF1FD557ED884E"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "40",
+            "assinatura": "B430AFEEB8672F710EE0BE3D5D3BF949503A1C09369AF477E0BEFDDAEE31809E429E47B264B334A3F3BDBAB48B2FDF319273CDAAFF3793813B7D0F4A30D0ABEF"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "3",
+            "assinatura": "67519E10438C1CC59E95922137D2FC528507BEC3D523DE52ABDD91B239E399D8349159C730682302456EB9F8B2D7B5F9053D51710B4565215C32530C9EA9CC0C"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "29",
+            "assinatura": "C14377C75872C3BC1688C7F6414DF3DBA5C147DBCC8471B61717E1AA5415EBDFFB8C24AEF743C7E720C73CACEC22B3C2936BDD0B07210A2D6069BA9E2B473D0C"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "81",
+            "assinatura": "4C7F062190BDBB5B30F329B00E2DCC1DFA630B7258B025B97944D6920C207D104567A66476ACA69224C62666F73D288C9DB03C6B16A5E50087CC7224128D012B"
+        },
+        "nulo": {
+            "quantidadeVotos": "5",
+            "assinatura": "79AD181C5BE7FCCA20DDC5BB7DF9C49228DB4C868A51DCA80124EF71AF54928045B5875C9955639B03FDD80B29A642A3B3EB67C649F20826C63B611AB509C6BC"
+        }
+    }
+}

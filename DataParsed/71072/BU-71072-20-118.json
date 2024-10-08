@@ -1,0 +1,53 @@
+{
+    "secao": "118",
+    "zona": "20",
+    "municipio": "71072",
+    "local": "1082",
+    "numeroInternoUrna": "2044271",
+    "numeroSerieFC": "D3DD8288",
+    "dataHoraCarga": "20240926T170700",
+    "codigoCarga": "078821110557910996088251",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170529",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "394",
+    "qtdEleitoresAptosPresidente": "394",
+    "qtdComparecimento": "285",
+    "qtdComparecimentoPresidente": "285",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "69",
+            "assinatura": "5AD144E32E5C6BA8DABFCFFF686888066327DF1DC421FD675333923A46BCE29F86FE50F7A6B0D4EDACBCE26EAC933D96B38BFFEF98088F4D0756E596D3B4CFA9"
+        },
+        "27": {
+            "partido": "27",
+            "quantidadeVotos": "1",
+            "assinatura": "0AD4EC3413D4C984C20212C10AFA4F1B6F7B070EE0F848946AAAF6DE07C5A29B43081BA6709FBF68476640942BF66F8AF8646DF70B58D8C4FF6FEB6E53F5312E"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "78",
+            "assinatura": "1D0DB5D3BB1D763E5E1CC43BEB7466FE8BDF9AEA02092BCE53F93F74216D74984FD95A3B498F0F1048BEE0C0FA0917B77F43A759D6B5842E04722C79376834D3"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "19",
+            "assinatura": "68207C3CF90DEF7B93CE41E65315E996992AEE1E729796501EC759A642C63102CD3C896457891D0D0B966A6D0F24E6C6AE031AE7F7F573CF9B9EC6DF4D3105D7"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "4",
+            "assinatura": "719173394CB2DA9FC9BBAD42297048D8F48D34A87396A0C452462C9D8FCFEE842257165F56896D311B37B9527912EBED20576B8518A45AAE1E0949B49942DE5D"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "104",
+            "assinatura": "EBD9C2A96632B15C6297672ABBF681F03443552E237A4FB95496653F5911FC49075AB8B38480C4130CD1FB6CACF8135AA9546B041445691426EC979792874858"
+        },
+        "nulo": {
+            "quantidadeVotos": "8",
+            "assinatura": "23B827E704EAE50DC02DF51B7E101CAD611588D00A97C1E10383DDA69A63558934AFE01704A491AB885F3ACF287428264143FA66AB28417DBEC0AA00C5A5BEC0"
+        }
+    }
+}

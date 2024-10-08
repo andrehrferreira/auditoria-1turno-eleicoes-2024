@@ -1,0 +1,53 @@
+{
+    "secao": "99",
+    "zona": "246",
+    "municipio": "71072",
+    "local": "1104",
+    "numeroInternoUrna": "2338440",
+    "numeroSerieFC": "251013AE",
+    "dataHoraCarga": "20240927T154900",
+    "codigoCarga": "594071217599807365125556",
+    "dataHoraAbertura": "20241006T080001",
+    "dataHoraEncerramento": "20241006T170216",
+    "idEleicao": "619",
+    "qtdEleitoresAptos": "343",
+    "qtdEleitoresAptosPresidente": "343",
+    "qtdComparecimento": "248",
+    "qtdComparecimentoPresidente": "248",
+    "votos": {
+        "15": {
+            "partido": "15",
+            "quantidadeVotos": "59",
+            "assinatura": "50C323F76AC56E1A13C53EC6E3951EE39F385B5F764A4E3EDA3E94B0402D14743433B1D0AADC0B83444D511BA51602253EFEACA30C911E47F5FDCCF772F70D8E"
+        },
+        "28": {
+            "partido": "28",
+            "quantidadeVotos": "73",
+            "assinatura": "BE099FBFDF1DD6B393E2EEFBEE77C6E030D7A8CA79F6250F0D13EC91EA14D7E849C132DBA60A87DD7C5EE33BA6AF7A175385DD1CFC03705986732C85FB3F6AF3"
+        },
+        "30": {
+            "partido": "30",
+            "quantidadeVotos": "8",
+            "assinatura": "06658E09D97BD21259EE6076C029DAE9E07842EEC46CD8E637E001505D547D800F635F41DB9A206FDC536A930269C87A1588B4C30D934F69520E656566095747"
+        },
+        "40": {
+            "partido": "40",
+            "quantidadeVotos": "34",
+            "assinatura": "5A32E5FF9A60F07B58A6B7153A1CEB2059F4C44F8BAF85F05A8F560003F8763E17278C894932A12F76D5D838AC9DF6A5EC663D4FDEC0DC0722557302640A29E4"
+        },
+        "45": {
+            "partido": "45",
+            "quantidadeVotos": "3",
+            "assinatura": "588AFC2922F5B3DFE62BE40D397CCCF361430466E34822FA6FDDF17D80557E94760A5F1FB292A4EE664C5C36483B1521573A8D10C906782D09B4D767CC2D2A4F"
+        },
+        "50": {
+            "partido": "50",
+            "quantidadeVotos": "51",
+            "assinatura": "D9737CBDB16BBDFEAC851FFD80CE0417276A21178E1945032DDE89B4FBA7FCAD0220B5CFE5EF7BD4E59A615A676A8C5CDC6BFD045D01BABAD43FF586924088BE"
+        },
+        "nulo": {
+            "quantidadeVotos": "11",
+            "assinatura": "F541D350F268A5A5A6DA293DECE3B72B62054E6A654266A1B7535F4702B39C980CEFAAAEF3003CAC251EAAD90253E686FB823328677B3E3E8FCE4EA9A633F0E3"
+        }
+    }
+}
