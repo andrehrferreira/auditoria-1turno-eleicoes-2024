@@ -2,7 +2,6 @@ import * as fs from "fs";
 import archiver from "archiver";
 import fg from "fast-glob";
 
-
 (async () => {
     //Clear
     const dataParsedFilesExists = await fg("./DataParsed/**/*.zip");
@@ -25,10 +24,24 @@ import fg from "fast-glob";
     archivedp.directory("./DataParsed", false);
     await archivedp.finalize();
 
+    //BUs Binary
+    const outputbubin = fs.createWriteStream(`bin-${new Date().getTime()}.zip`);
+    const archivebubin = archiver('zip');
+    archivebubin.pipe(outputbubin);
+    archivebubin.directory("./Binary", false);
+    await archivebubin.finalize();
+
     //BUs
     const outputbu = fs.createWriteStream(`bu-${new Date().getTime()}.zip`);
     const archivebu = archiver('zip');
     archivebu.pipe(outputbu);
     archivebu.directory("./BUs", false);
     await archivebu.finalize();
+
+    //Logs
+    const outputlogs = fs.createWriteStream(`logs-${new Date().getTime()}.zip`);
+    const archivelogs = archiver('zip');
+    archivelogs.pipe(outputlogs);
+    archivelogs.directory("./DownloadLogs", false);
+    await archivelogs.finalize();
 })();

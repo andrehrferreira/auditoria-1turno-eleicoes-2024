@@ -126,12 +126,12 @@ class CrawlerBUs{
     bar1.start(urlList.length, 0);
     let promises = [];
     
-    for(let keyUrl = 0; keyUrl < urlList.length; keyUrl+=2){
+    for(let keyUrl = 0; keyUrl < urlList.length; keyUrl++){
         try{
             //if(keyUrl > crawlerIndex){
                 //await fs.writeFileSync('crawlerIndex.txt', keyUrl.toString());
                 
-                for(let key = 0; key < 2; key++){
+                //for(let key = 0; key < 2; key++){
                     bar1.increment();  
                     const link = decodeURIComponent(urlList[keyUrl].url);
                     const municipio = urlList[keyUrl].nubu;
@@ -142,33 +142,20 @@ class CrawlerBUs{
                         !fs.existsSync(`./BUs/${municipio}/BU-${municipio}-${zona}-${secao}.json`) &&
                         !fs.existsSync(`./BUs/${parseInt(municipio)}/BU-${parseInt(municipio)}-${parseInt(zona)}-${parseInt(secao)}.json`)
                     ){
-                        //console.log(`BU-${municipio}-${zona}-${secao}.json`)
-
-                        promises.push(new Promise(async (resolve) => {                                                  
-                            const urlData = urlList[keyUrl + key];
-                            //console.log(urlData.url);
-                            const crawler = new CrawlerBUs();
-                            await crawler.createBrowser();
-                            await crawler.getPageData(link, {
-                                municipio, zona, secao
-                            });
-                            resolve();
-                        }));
-                        /*const urlData = urlList[keyUrl];
+                        const urlData = urlList[keyUrl];
+                        //console.log(urlData.url);
                         const crawler = new CrawlerBUs();
                         await crawler.createBrowser();
                         await crawler.getPageData(link, {
                             municipio, zona, secao
-                        });*/
-
-                        //await new Promise((resolve) => setTimeout(() => resolve, 3000))
+                        });
                     }
-                }
+                //}
 
-                if(promises.length > 0)
-                    await Promise.all(promises);
+                //if(promises.length > 0)
+                //    await Promise.all(promises);
 
-                promises = [];
+                //promises = [];
             //}
         }
         catch(e){ 
