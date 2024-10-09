@@ -9,6 +9,7 @@ import * as puppeteer from 'puppeteer';
 import * as path from "path";
 import * as fs from "fs";
 import * as cliProgress from "cli-progress";
+import axios from "axios";
 
 process.on('uncaughtException', function(err) {
     console.log(err)
@@ -44,7 +45,7 @@ class CrawlerBUs{
         this.page = await this.browser.newPage();
         await this.page.setUserAgent('Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36');
         this.page.setViewport({width: 1920, height: 1024});
-        this.page.setRequestInterception(false);
+        await this.page.setRequestInterception(true);
         this.page.on('console', async message => {
             try{
                 const args = await Promise.all(message.args().map(async arg => await arg.jsonValue()));
@@ -62,24 +63,32 @@ class CrawlerBUs{
 
                     fs.writeFileSync(`./BUs/${municipio}/BU-${municipio}-${zona}-${secao}.json`, JSON.stringify(args[0]));
                     //await this.page.screenshot({path: `./Screenshots/${municipio}/BU-${municipio}-${zona}-${secao}.png`,  fullPage: true});
-                    this.browser.close();
+                    //this.browser.close();
                 }
             }
             catch(e){}
         })
-        .on('pageerror', ({ message }) => console.log(message))
+        .on('request', request => {
+            request.continue();
+        })
         .on('response', async response => {
             try{
                 const url = response.url();
         
-                if(response.url().includes('.bu')){
+                if(url.includes('.dat')){
                     const filename = path.basename(url);
                     fs.writeFileSync(`./Binary/${filename}`, await response.buffer());
+                    
+                    const urlLog = url.replace("-bu.dat", "-log.jez");
+                    const filenameLog = path.basename(urlLog);  
+                    const logContents = await axios.get(urlLog, { responseType: 'arraybuffer' });      
+                    fs.writeFileSync(`./DownloadLogs/downloads/${filenameLog}`, logContents.data);
                 }
             }
-            catch(e){}
+            catch(e){
+                console.log(e)
+            }
         })
-        //.on('requestfailed', request => console.log(`${request.failure().errorText} ${request.url()}`));
     }
 
     async getPageData(url, metadata){
